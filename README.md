@@ -1,0 +1,1 @@
+This application was developed by using Kotlin, and [OpenWeatherMap API](https://openweathermap.org/api) for the students who are enrolled in the DGL 114: Introduction to Mobile App Dev course at North Island College (NIC) in the WI25 term.
