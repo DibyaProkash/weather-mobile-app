@@ -69,7 +69,7 @@ fun WeatherScreen(){
     var city by remember {
         mutableStateOf("")
     }
-    val apiKey = "a4381cef769ba9e326d1569005c373bb"
+    val apiKey = "XXXXXXXXXXXXXXXXXXXXXX" // Place your own API Key
 
     Box(modifier = Modifier
         .fillMaxSize()
